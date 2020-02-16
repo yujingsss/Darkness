@@ -1,0 +1,27 @@
+body {
+    margin: 275px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+
+a {
+    color: #ba0000;
+    text-decoration: none;
+}
+
+.narrative{
+    text-align: left;
+}
+
+.option {
+
+}
+
+#inceptionQuote{
+    font-size: 32px;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+}
